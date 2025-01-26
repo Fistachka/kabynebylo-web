@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>kabynebylo-web</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="Fistachka" repo="kabynebylo-2"/>
   <readme>
     <ru>27de4bca3ae8b435bc50cda94f4a4353b41920964df18114659cad5f3c31d5b4</ru>
@@ -37,7 +37,7 @@
       <note number="3" values="78" ticks="340" durationTicks="169" ppq="192" velocity="1"/>
       <note number="4" values="68" ticks="547" durationTicks="63" ppq="192" velocity="1"/>
       <note number="5" values="68" ticks="655" durationTicks="246" ppq="192" velocity="1"/>
-      <note number="6" values="58" ticks="939" durationTicks="466" ppq="192" velocity="1"/>
+      <note number="6" values="58" ticks="963" durationTicks="466" ppq="192" velocity="1"/>
     </notes>
   </exercise>
   <exercise number="3">
