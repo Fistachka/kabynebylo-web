@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>kabynebylo-web</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="kabynebylo-2"/>
   <readme>
     <ru>27de4bca3ae8b435bc50cda94f4a4353b41920964df18114659cad5f3c31d5b4</ru>
@@ -19,10 +19,10 @@
       <note number="1" values="5" ticks="44" durationTicks="71" ppq="192" velocity="0.681"/>
       <note number="2" values="5" ticks="136" durationTicks="58" ppq="192" velocity="0.803"/>
       <note number="3" values="58" ticks="236" durationTicks="295" ppq="192" velocity="0.689"/>
-      <note number="4" values="28" ticks="570" durationTicks="93" ppq="192" velocity="0.784"/>
-      <note number="5" values="48" ticks="664" durationTicks="91" ppq="192" velocity="0.671"/>
-      <note number="6" values="38" ticks="749" durationTicks="95" ppq="192" velocity="0.819"/>
-      <note number="7" values="18" ticks="841" durationTicks="376" ppq="192" velocity="0.719"/>
+      <note number="4" values="28" ticks="595" durationTicks="93" ppq="192" velocity="0.784"/>
+      <note number="5" values="48" ticks="685" durationTicks="91" ppq="192" velocity="0.671"/>
+      <note number="6" values="38" ticks="777" durationTicks="95" ppq="192" velocity="0.819"/>
+      <note number="7" values="18" ticks="873" durationTicks="376" ppq="192" velocity="0.719"/>
     </notes>
   </exercise>
   <exercise number="2">
